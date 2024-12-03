@@ -31,4 +31,4 @@ To use the Love Calculator app, follow these steps:
 3. Run the application:
 
    ```bash
-   python love.py
+   python truelove.py
