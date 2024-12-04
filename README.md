@@ -23,7 +23,7 @@ To use the Love Calculator app, follow these steps:
 1. Clone the repository or download the `love.py` script:
    
    ```bash
-   git clone https://github.com/yourusername/love-calculator.git
+   git clone https://github.com/Aryan-Rajesh-Python/Love-Calculator.git
 2. If you haven't installed pyfiglet for ASCII art, you can install it via pip:
 
    ```bash
